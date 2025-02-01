@@ -6,3 +6,10 @@
 
 ![一张摸鱼的图片](https://octodex.github.com/images/nyantocat.gif)
 ![蜘蛛章鱼](https://octodex.github.com/images/spidertocat.png)
+
+
+```c
+printf("Hello World!!!");
+//XD
+
+```
